@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f1a55a3e.css","mappings":"AAAA,KAME,wBAA0B,CAH1B,UAAW,CAFX,6BAAiC,CACjC,cAAe,CAEf,QAAS,CACT,gBAEF","sources":["index.css"],"sourcesContent":["body {\n  font-family: 'Roboto', sans-serif;\n  font-size: 18px;\n  color:white;\n  margin: 0;\n  padding-top: 40px;\n  background-color: #14213d ;\n}\n"],"names":[],"sourceRoot":""}
